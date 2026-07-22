@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a problem with the archives or the site
+    url: https://github.com/r-mailing-lists/feedback/issues/new/choose
+    about: Missing messages, garbled bodies, broken threading, site bugs, and feature requests are all tracked in one place.
+  - name: Removal or privacy request
+    url: mailto:support@caffeinatedmath.com
+    about: To remove a message or personal information, email us. Please do not open a public issue.
+  - name: R Mailing Lists
+    url: https://r-mailing-lists.thecoatlessprofessor.com/
+    about: The site itself.
+  - name: Email support
+    url: mailto:support@caffeinatedmath.com
+    about: For private support requests and security reports.
