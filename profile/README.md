@@ -42,6 +42,7 @@ Complete archives of the R project's mailing lists, mirrored from the public [Ma
 ## R-Forge
 
 - [rcpp-devel](https://github.com/r-mailing-lists/rcpp-devel), Rcpp development
+- [rforge-archive](https://github.com/r-mailing-lists/rforge-archive), the other R-Forge discussion lists, archived together ahead of the service's retirement
 
 ## Other
 
