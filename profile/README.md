@@ -55,7 +55,12 @@ Complete archives of the R project's mailing lists, mirrored from the public [Ma
 ## Other
 
 - [bioc-devel](https://github.com/r-mailing-lists/bioc-devel), Bioconductor development
+- [bioconductor](https://github.com/r-mailing-lists/bioconductor), the Bioconductor project's help and discussion list until 2014
+- [bioc-sig-sequencing](https://github.com/r-mailing-lists/bioc-sig-sequencing), Bioconductor's SIG on high-throughput sequencing
+- [bioc-sig-proteomics](https://github.com/r-mailing-lists/bioc-sig-proteomics), Bioconductor's SIG on proteomics
+- [biocbug](https://github.com/r-mailing-lists/biocbug), the Bioconductor Boston user group
 - [r-ug-ottawa](https://github.com/r-mailing-lists/r-ug-ottawa), the Ottawa R User Group
+- [rmetrics-core](https://github.com/r-mailing-lists/rmetrics-core), maintainers of the Rmetrics packages
 
 ## The data
 
