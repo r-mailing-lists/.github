@@ -38,11 +38,19 @@ Complete archives of the R project's mailing lists, mirrored from the public [Ma
 - [r-sig-gui](https://github.com/r-mailing-lists/r-sig-gui), GUI development
 - [r-sig-teaching](https://github.com/r-mailing-lists/r-sig-teaching), teaching statistics using R
 - [r-sig-jobs](https://github.com/r-mailing-lists/r-sig-jobs), job announcements where R is used
+- [r-sig-rugs](https://github.com/r-mailing-lists/r-sig-rugs), starting and organizing R user groups
+- [r-sig-wiki](https://github.com/r-mailing-lists/r-sig-wiki), setting up and managing a wiki devoted to R
+- [r-sig-qa](https://github.com/r-mailing-lists/r-sig-qa), quality assurance and validation
+- [r-sig-mediawiki](https://github.com/r-mailing-lists/r-sig-mediawiki), the R extension for MediaWiki
 
 ## R-Forge
 
 - [rcpp-devel](https://github.com/r-mailing-lists/rcpp-devel), Rcpp development
 - [rforge-archive](https://github.com/r-mailing-lists/rforge-archive), the other R-Forge discussion lists, archived together ahead of the service's retirement
+
+## Google Groups
+
+- [googlegroups-archive](https://github.com/r-mailing-lists/googlegroups-archive), R discussion groups on Google Groups, starting with gsoc-r, archived together from their public pages
 
 ## Other
 
