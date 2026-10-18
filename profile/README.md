@@ -50,7 +50,7 @@ Complete archives of the R project's mailing lists, mirrored from the public [Ma
 
 ## Google Groups
 
-- [googlegroups-archive](https://github.com/r-mailing-lists/googlegroups-archive), R discussion groups on Google Groups, starting with gsoc-r, archived together from their public pages
+- [googlegroups-archive](https://github.com/r-mailing-lists/googlegroups-archive), R discussion groups on Google Groups, among them shiny-discuss, ggplot2, knitr and gsoc-r, archived together from their public pages
 
 ## Other
 
