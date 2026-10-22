@@ -64,7 +64,7 @@ Complete archives of the R project's mailing lists, mirrored from the public [Ma
 
 - [r-ug-ottawa](https://github.com/r-mailing-lists/r-ug-ottawa), the Ottawa R User Group
 - [rmetrics-core](https://github.com/r-mailing-lists/rmetrics-core), maintainers of the Rmetrics packages
-- [r-br](https://github.com/r-mailing-lists/r-br), Brazil's R discussion list in Portuguese, rebuilt from the Wayback Machine after its host went offline
+- [r-br](https://github.com/r-mailing-lists/r-br), Brazil's R discussion list in Portuguese, from its Mailman 3 archive at UFPR
 
 ## The data
 
