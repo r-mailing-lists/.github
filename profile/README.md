@@ -65,6 +65,10 @@ Complete archives of the R project's mailing lists, mirrored from the public [Ma
 - [r-ug-ottawa](https://github.com/r-mailing-lists/r-ug-ottawa), the Ottawa R User Group
 - [rmetrics-core](https://github.com/r-mailing-lists/rmetrics-core), maintainers of the Rmetrics packages
 - [r-br](https://github.com/r-mailing-lists/r-br), Brazil's R discussion list in Portuguese, from its Mailman 3 archive at UFPR
+- [rkward](https://github.com/r-mailing-lists/rkward), [rkward-devel](https://github.com/r-mailing-lists/rkward-devel) and [rkward-users](https://github.com/r-mailing-lists/rkward-users), RKWard, the KDE front end for R
+- [epls-r-users](https://github.com/r-mailing-lists/epls-r-users), the R user group at Florida State University
+- [acs-r](https://github.com/r-mailing-lists/acs-r), users of the acs package for American Community Survey data
+- [gmane-archive](https://github.com/r-mailing-lists/gmane-archive), lists whose own archives are gone, among them rpy-list, R-lang, Zelig and MatchIt, read together from Gmane's news server
 
 ## The data
 
