@@ -1,5 +1,10 @@
 # R Mailing Lists
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="r-mailing-lists-logo-dark-animated.svg">
+  <img align="right" width="160" alt="The R Mailing Lists hex logo: blue envelopes filed in a drawer marked since 1997, the front one sealed with an R" src="r-mailing-lists-logo-light-animated.svg">
+</picture>
+
 Complete archives of the R project's mailing lists, mirrored from the public [Mailman archives](https://stat.ethz.ch/mailman/listinfo) and updated daily. One repository per list, each holding the mbox files exactly as upstream publishes them, monthly, quarterly, or annually depending on the list, alongside a parsed, structured form, plus a combined Parquet release for analysis.
 
 **[r-mailing-lists.thecoatlessprofessor.com](https://r-mailing-lists.thecoatlessprofessor.com/)**
