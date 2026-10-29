@@ -74,6 +74,7 @@ Complete archives of the R project's mailing lists, mirrored from the public [Ma
 - [grass-stats](https://github.com/r-mailing-lists/grass-stats), GRASS GIS and R, the list of the GRASS-R interface, from OSGeo
 - [statnet-help](https://github.com/r-mailing-lists/statnet-help), help with statnet, the R packages for network analysis, with its years before 2022 from the Wayback Machine
 - [gmane-archive](https://github.com/r-mailing-lists/gmane-archive), lists whose own archives are gone, among them rpy-list, R-lang, Zelig, MatchIt and StatET, read together from Gmane's news server
+- [wayback-archive](https://github.com/r-mailing-lists/wayback-archive), Amelia and ReLogit, two of Gary King's lists at Harvard whose server is gone, rebuilt from the Wayback Machine's copies of their archives
 
 ## The data
 
