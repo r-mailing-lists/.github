@@ -70,7 +70,10 @@ Complete archives of the R project's mailing lists, mirrored from the public [Ma
 - [acs-r](https://github.com/r-mailing-lists/acs-r), users of the acs package for American Community Survey data
 - [debian-r](https://github.com/r-mailing-lists/debian-r), the Debian R Packaging Team's list on maintaining R packages in Debian, from its archive at lists.debian.org
 - [r-pkg-team](https://github.com/r-mailing-lists/r-pkg-team), the same team's maintainer address at Alioth, which receives the automatic mail about its uploads and bug reports
-- [gmane-archive](https://github.com/r-mailing-lists/gmane-archive), lists whose own archives are gone, among them rpy-list, R-lang, Zelig and MatchIt, read together from Gmane's news server
+- [fedora-r-devel](https://github.com/r-mailing-lists/fedora-r-devel), the Fedora Project's list for packaging R and R packages, from its Mailman 3 archive
+- [grass-stats](https://github.com/r-mailing-lists/grass-stats), GRASS GIS and R, the list of the GRASS-R interface, from OSGeo
+- [statnet-help](https://github.com/r-mailing-lists/statnet-help), help with statnet, the R packages for network analysis, with its years before 2022 from the Wayback Machine
+- [gmane-archive](https://github.com/r-mailing-lists/gmane-archive), lists whose own archives are gone, among them rpy-list, R-lang, Zelig, MatchIt and StatET, read together from Gmane's news server
 
 ## The data
 
