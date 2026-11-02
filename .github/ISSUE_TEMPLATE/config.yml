@@ -7,7 +7,7 @@ contact_links:
     url: mailto:support@caffeinatedmath.com
     about: To remove a message or personal information, email us. Please do not open a public issue.
   - name: R Mailing Lists
-    url: https://r-mailing-lists.thecoatlessprofessor.com/
+    url: https://archives.rstats.dev/
     about: The site itself.
   - name: Email support
     url: mailto:support@caffeinatedmath.com
