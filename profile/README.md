@@ -7,7 +7,7 @@
 
 Complete archives of the R project's mailing lists, mirrored from the public [Mailman archives](https://stat.ethz.ch/mailman/listinfo) and updated daily. One repository per list, each holding the mbox files exactly as upstream publishes them, monthly, quarterly, or annually depending on the list, alongside a parsed, structured form, plus a combined Parquet release for analysis.
 
-**[r-mailing-lists.thecoatlessprofessor.com](https://r-mailing-lists.thecoatlessprofessor.com/)**
+**[archives.rstats.dev](https://archives.rstats.dev/)**
 
 ## Core lists
 
