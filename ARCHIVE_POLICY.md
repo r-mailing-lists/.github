@@ -9,7 +9,7 @@ Every archive repository here is a mirror of a public Mailman pipermail archive.
 - Most lists are published by ETH Zurich, which indexes them at [stat.ethz.ch/mailman/listinfo](https://stat.ethz.ch/mailman/listinfo). An individual archive lives at a URL like [stat.ethz.ch/pipermail/r-help/](https://stat.ethz.ch/pipermail/r-help/), and the exact upstream URL for a list is recorded in that list's repository README.
 - Rcpp-devel is published by [R-Forge](https://lists.r-forge.r-project.org/pipermail/rcpp-devel/).
 
-Each repository keeps the mbox files exactly as upstream publishes them, which means monthly for some lists, quarterly for others, and annually for a few, plus a structured form produced by [rmail-parser](https://github.com/r-mailing-lists/rmail-parser). The [data](https://github.com/r-mailing-lists/data) repository publishes the same messages as Parquet, and the site at [r-mailing-lists.thecoatlessprofessor.com](https://r-mailing-lists.thecoatlessprofessor.com/) reads from that data.
+Each repository keeps the mbox files exactly as upstream publishes them, which means monthly for some lists, quarterly for others, and annually for a few, plus a structured form produced by [rmail-parser](https://github.com/r-mailing-lists/rmail-parser). The [data](https://github.com/r-mailing-lists/data) repository publishes the same messages as Parquet, and the site at [archives.rstats.dev](https://archives.rstats.dev/) reads from that data.
 
 Email addresses appear in the same obfuscated form the upstream archive publishes, for example `name at example.com`. We do not de-obfuscate them, and we do not add addresses that upstream withheld.
 
