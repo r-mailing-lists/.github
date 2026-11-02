@@ -2,7 +2,7 @@
 
 Questions, site bugs, missing messages, garbled bodies, and feature requests all go to one place: [r-mailing-lists/feedback](https://github.com/r-mailing-lists/feedback/issues/new/choose).
 
-For the project overview and a link to every list, see the [R Mailing Lists profile](https://github.com/r-mailing-lists) and the site at [r-mailing-lists.thecoatlessprofessor.com](https://r-mailing-lists.thecoatlessprofessor.com/). If you want the messages themselves rather than a page about them, [data](https://github.com/r-mailing-lists/data) publishes every list as Parquet.
+For the project overview and a link to every list, see the [R Mailing Lists profile](https://github.com/r-mailing-lists) and the site at [archives.rstats.dev](https://archives.rstats.dev/). If you want the messages themselves rather than a page about them, [data](https://github.com/r-mailing-lists/data) publishes every list as Parquet.
 
 ## Removal and privacy requests
 
